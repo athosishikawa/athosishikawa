@@ -19,3 +19,4 @@
 
 I'm a Front-end Developer with a passion for UX. I build beautiful, functional interfaces that users love, bridging the gap between design and code.
 
+
