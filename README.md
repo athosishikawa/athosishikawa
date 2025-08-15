@@ -5,7 +5,7 @@
 
 <p align="center">
  
-  <a href="[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/athosishikawa/)">
+  <a href="https://www.linkedin.com/in/athosishikawa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:athosayi@gmail.com">
